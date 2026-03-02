@@ -1,0 +1,1 @@
+# device sirve para representar un dispositivo registrado en el sistema

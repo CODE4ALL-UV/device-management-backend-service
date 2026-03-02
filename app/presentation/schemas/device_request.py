@@ -1,0 +1,1 @@
+# device request schema for validating device registration requests

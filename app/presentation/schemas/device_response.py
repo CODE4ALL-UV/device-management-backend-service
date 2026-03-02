@@ -1,0 +1,1 @@
+# device response schema for validating device responses
